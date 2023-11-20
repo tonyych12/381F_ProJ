@@ -9,7 +9,7 @@ const app = express();
 const port = 3001;
 
 mongoose.connect(
-  'mongodb+srv://s1335778:Abcd1234@cluster0.yaw2iaa.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp',
+  'mongodb+srv://S381F_Project:Abcd1234@cluster0.4indt4u.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
