@@ -1,6 +1,3 @@
-Group Nuumber: 09
-Student name: CHUENG HOI, LAU CHUNG YIN, KAN CHING HANG, 
-SID: 13396064, 13199505, 13357782, 13231208
 Project Name: Notes App
 
 A simple Notes application implemented using Node.js, EJS, MongoDB and Render for cloud deployment.
