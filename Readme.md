@@ -29,13 +29,13 @@ DELETE /notes/:noteId: Delete a note
 In Views directory
 
 index.ejs home file (This is the signup page)
-
+![image](https://github.com/tonyych12/381F_ProJ/assets/48938660/b5679d56-2079-4457-b91c-2995653a441c)
 
 login.ejs login file (This is a login page)
+![image](https://github.com/tonyych12/381F_ProJ/assets/48938660/62996a8b-b2e0-436d-bdc1-98a1698c2f14)
 
-
-
-notes.ejs mainHome file (This is the main page, it¡¥s shown all the basic services about the CRUD)
+notes.ejs mainHome file (This is the main page, itÂ¡Â¥s shown all the basic services about the CRUD)
+![image](https://github.com/tonyych12/381F_ProJ/assets/48938660/6544c961-1ab2-4d00-bba6-4b129e0ddfcf)
 
 # Ejs used
 
@@ -45,5 +45,6 @@ Ejs is used to make the Frontend
 
 Mongodb has been used to store the data in the database
 
-#Session-Cookie (Used JWT format)
+# Session Cookie (Used JWT format)
+![image](https://github.com/tonyych12/381F_ProJ/assets/48938660/7ce6e005-295f-4fe6-af32-ffddfeb34e34)
 
